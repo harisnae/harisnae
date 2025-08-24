@@ -1,4 +1,4 @@
-```markdown
+
 # Welcome to My GitHub Profile
 
 Hello! I'm Haris Naeem, an independent researcher and enthusiast in the field of **Theoretical Analysis of Intelligence-Spacetime Interactions**. My work focuses on investigating the potential relationships between advanced cognitive systems and spacetime geometry, grounded in established principles of general relativity and quantum information theory.
@@ -52,7 +52,6 @@ I welcome collaboration with experts from various fields, including theoretical 
 
 ## Contact
 
-For more information and links to my social profiles, visit my [Linktree](https://harisnae.github.io).
+For more information and links to my social profiles, visit my [Linktree](https://harisnae.github.io)
 
 Thank you for visiting my GitHub profile!
-```
