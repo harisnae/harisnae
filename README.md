@@ -30,8 +30,9 @@
 ---
 
 ### Beyond coding
-When I’m not building, I’m usually outdoors —  
-I play basketball & football (often with kids!) and can spin a basketball on my thumb 🏀👍.
+I do photography, create short films, and compose original soundtracks.
+
+I read books, learn dancing, play basketball, and find the quiet of libraries to develop new creative concepts.
 
 
 ## Contact
