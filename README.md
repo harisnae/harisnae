@@ -37,4 +37,4 @@ I read books, learn dancing, play basketball, and find the quiet of libraries to
 
 ## Contact
 
-For more information and links to my social profiles, visit my [Linktree](https://harisnae.github.io)
+For more information and links to my social profiles, visit my [Portfolio](https://harisnae.github.io)
