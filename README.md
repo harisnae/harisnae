@@ -1,31 +1,27 @@
 # Haris Naeem
 
-**Building MIT-licensed, offline-first, privacy-friendly LLM tools for everyday use.**
+**Building things that run entirely in your browser - no logins, no tracking, nothing to install.**
 
 ---
 
 ### What I do
-- Develop **browser-based LLM apps** that run entirely on the client (no servers, no tracking).
-- Package **ultra-light open LLMs** to run smoothly on modest hardware.
-- Create **task-specific tools** (e.g. translator, summarizer, document Q&A) designed for offline use.
-- Publish everything under **MIT license** so others can freely reuse and build upon it.
+- Build browser-based AI tools - multilingual translation, speech-to-text, OCR, multi-LLM chat - that run entirely on the client. No servers, no accounts, no telemetry.
+- Package quantized open models (ONNX, GGUF) so they load once, cache in the browser, and run on modest hardware - no GPUs, no cloud.
+- Build small browser games (MAKO, Wortmeister) in vanilla JavaScript - no dependencies, no installs: open the page and play.
+- Publish everything under permissive licenses with commented source, so anyone can fork, extend, and redeploy.
+- Development is AI-assisted - LLMs draft, I curate, test, and document. The point is the finished tool, not the typing.
 
 ### Principles
-- **Privacy-first:** tools should work offline without sending data anywhere.  
-- **Accessible:** usable on everyday devices without heavy GPUs or cloud.  
-- **Simple deploys:** static hosting or local use — no complicated infra.  
-- **Open by default:** all code permissively licensed.  
-
-### Current focus
-- Building **ready-to-use translators** that run entirely in-browser.  
-- Exploring **everyday AI tools** (summarization, note rewriting, language Q&A).  
-- Documenting clear, reproducible **how-to-run** guides for non-technical users.  
+- **Privacy-first:** tools work offline and never send data anywhere.
+- **Zero-friction access:** no logins, no registrations - open the page and use it.
+- **Runs anywhere:** everyday hardware, modest devices, static hosting.
+- **Fork-friendly:** MIT / Apache-2.0 licensed, readable and commented code.
 
 ### Tech stack
-- [`transformers.js`](https://github.com/xenova/transformers.js) & WebAssembly (SIMD)  
-- Web Workers & browser-native APIs  
-- Quantized LLMs (GGUF, llama.cpp ecosystem)  
-- Model Context Protocol (MCP) for local integrations  
+- transformers.js / ONNX Runtime Web (WASM SIMD)
+- Quantized models: ONNX & GGUF (llama.cpp ecosystem)
+- Web Workers, IndexedDB, Canvas 2D, Web Audio
+- Vanilla HTML/CSS/JS - no frameworks, no build steps
 
 ---
 
